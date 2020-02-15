@@ -1,0 +1,6 @@
+version: '3.4'
+services:
+  dappnodepackage-block-explorer.public.dappnode.eth:
+    build: ./build
+    image: 'dappnodepackage-block-explorer.public.dappnode.eth:0.0.1'
+    restart: always
