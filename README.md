@@ -13,6 +13,7 @@ The dappnode block explorer uses local data to provade a ethereum block explorer
 You can also set this dapp as the block explorer for your metamask!
 
 Simply set the block explorer to `http://block-explorer.dappnode` in metamask network settings for your custom dappnode network.
+
 ![metamask-network-settings](./metamask-network-settings.png)
 
 ## License
