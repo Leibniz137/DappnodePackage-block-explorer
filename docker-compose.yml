@@ -1,8 +1,8 @@
 version: '3.4'
 services:
-  dappnodepackage-block-explorer.public.dappnode.eth:
+  block-explorer.dnp.dappnode.eth:
     build: ./build
     environment:
       - 'APP_NODE_URL=http://my.ethchain.dnp.dappnode.eth:8545'
-    image: 'dappnodepackage-block-explorer.public.dappnode.eth:0.0.1'
+    image: 'block-explorer.dnp.dappnode.eth:0.0.2'
     restart: always

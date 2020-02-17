@@ -1,6 +1,6 @@
 {
-  "name": "dappnodepackage-block-explorer.public.dappnode.eth",
-  "version": "0.0.1",
+  "name": "block-explorer.dnp.dappnode.eth",
+  "version": "0.0.2",
   "description": "a private, locally-hosted block explorer using your personal node",
   "avatar": "./avatar.jpg",
   "type": "service",
