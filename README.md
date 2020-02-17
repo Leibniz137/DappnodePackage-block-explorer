@@ -1,6 +1,6 @@
 # Block Explorer DappNode Package
 
-Block explorer that reads data local ethchain dappnode dapp.
+A block explorer for your dappnode's ethereum client.
 
 ![block-explorer-screenshot](block-explorer-screenshot.png)
 
