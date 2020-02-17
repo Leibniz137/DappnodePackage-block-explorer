@@ -19,4 +19,4 @@ Simply set the block explorer to `http://block-explorer.dappnode` in metamask ne
 ![metamask-network-settings](./metamask-network-settings.png)
 
 ## License
-This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](./LICENSE) file for details
