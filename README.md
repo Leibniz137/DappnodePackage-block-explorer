@@ -2,6 +2,8 @@
 
 Block explorer that reads data local ethchain dappnode dapp.
 
+![block-explorer-screenshot](block-explorer-screenshot.png)
+
 ## Usage
 The dappnode block explorer uses local data to provade a ethereum block explorer that is fast, reliable, and private.
 
