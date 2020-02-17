@@ -1,6 +1,6 @@
 # Block Explorer DappNode Package
 
-A block explorer for your dappnode's ethereum client.
+A block explorer for your dappnode's ethereum client. Uses [Alethio](https://github.com/Alethio/ethereum-lite-explorer) open-source block explorer.
 
 ![block-explorer-screenshot](block-explorer-screenshot.png)
 
