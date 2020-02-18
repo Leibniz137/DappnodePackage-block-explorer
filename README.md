@@ -5,7 +5,7 @@ A block explorer for your dappnode's ethereum client. Uses [Alethio](https://git
 ![block-explorer-screenshot](block-explorer-screenshot.png)
 
 ## Usage
-The dappnode block explorer uses local data to provade a ethereum block explorer that is fast, reliable, and private.
+The dappnode block explorer uses local data to provide a ethereum block explorer that is fast, reliable, and private.
 
 ### Installation
 1. Download this dnp `/ipfs/QmbzqL2F9S4T3mAMcgFWo1Jn63BTSmVBoGJp6ckdQsbZyf` via your dnp installer: http://my.dappnode/#/installer
